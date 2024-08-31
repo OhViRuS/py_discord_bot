@@ -3,7 +3,7 @@ import discord
 intents = discord.Intents.default()
 intents.message_content = True
 
-#token =
+#token
 client = discord.client(intents=intents)
 
 @client.event
