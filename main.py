@@ -11,7 +11,5 @@ async def on_ready():
     print(f"labas as esu online")
 
 
-
-
 client.run(token)
 
